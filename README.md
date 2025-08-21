@@ -11,7 +11,7 @@
 This is a tool , **File_writer** . You just call edit method & enter file_name , place & text . Like this...
 
 ```
-from tool import file_writer as fw
+from toolbox import file_writer as fw
 
 fw.edit("file.txt","Balance","₹50")
 
